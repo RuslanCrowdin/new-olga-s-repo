@@ -1,5 +1,5 @@
 export_languages:                                
-    "de"
+    de
 files:
   - source: /*.*
     ignore:
