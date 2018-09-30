@@ -15,8 +15,7 @@
     "ignore":
        "/*.csv",
        "/*.xml"
-     "export_languages": [                                   
+     "export_languages":                                    
     "de"
-]
-  }
+    }
 ]
