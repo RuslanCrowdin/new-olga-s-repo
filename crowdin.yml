@@ -10,8 +10,8 @@
 
 "files": [
   {
-    "source" : "/*.*",                                          #source files filter
-    "translation": /translations/%two_letters_code%/%original_file_name%        #where translations are stored
+    "source" : "/*.*",                                          
+    "translation": /translations/%two_letters_code%/%original_file_name%        
     "ignore":
        "/*.csv",
        "/*.xml"
