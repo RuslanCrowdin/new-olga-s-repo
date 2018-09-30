@@ -8,12 +8,15 @@
  #   translation: /translations/%two_letters_code%/%original_file_name% 
 
 
-"export_languages": [                                   
-    "de"
-]
 "files": [
   {
     "source" : "/*.*",                                          #source files filter
-    translation: /translations/%two_letters_code%/%original_file_name%        #where translations are stored
+    "translation": /translations/%two_letters_code%/%original_file_name%        #where translations are stored
+    "ignore":
+       "/*.csv",
+       "/*.xml"
+     "export_languages": [                                   
+    "de"
+]
   }
 ]
