@@ -6,12 +6,12 @@
     <message>
       <source>Text for translation</source>
       <comment>commenting</comment>
-      <translation type="unfinished">Text for translation</translation>
+      <translation>Text zur Übersetzung</translation>
     </message>
     <message>
       <source>This is some text.</source>
       <extracomment>some text</extracomment>
-      <translation type="unfinished">This is some text.</translation>
+      <translation>Dies ist ein Text.</translation>
     </message>
   </context>
   <context>
@@ -19,7 +19,7 @@
     <message>
       <source>Text for translation #2 </source>
       <oldcomment>some new comments here</oldcomment>
-      <translation type="unfinished">Text for translation #2 </translation>
+      <translation>Text zur Übersetzung 2 </translation>
     </message>
   </context>
 </TS>
