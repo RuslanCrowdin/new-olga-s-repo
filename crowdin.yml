@@ -1,4 +1,4 @@
-export_languages: de
+#export_languages: de
 files:
   - source: /*.*
     ignore:
@@ -6,4 +6,5 @@ files:
      - /*.xml
     translation: /translations/%two_letters_code%/%original_file_name% 
 
+export_languages: 'de'
 
