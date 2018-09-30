@@ -1,8 +1,19 @@
-export_languages:                                
-    de
-files:
-  - source: /*.*
-    ignore:
-      - /*.csv
-      - /*.xml
-    translation: /translations/%two_letters_code%/%original_file_name% 
+#export_languages:                                
+#    de
+#files:
+#  - source: /*.*
+ #   ignore:
+ #     - /*.csv
+ #     - /*.xml
+ #   translation: /translations/%two_letters_code%/%original_file_name% 
+
+
+"export_languages": [                                   
+    "de"
+]
+"files": [
+  {
+    "source" : "/*.*",                                          #source files filter
+    translation: /translations/%two_letters_code%/%original_file_name%        #where translations are stored
+  }
+]
