@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: new-ruslan-s-repo\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2018-09-30 05:42\n"
+"PO-Revision-Date: 2018-10-30 09:01\n"
 "X-Crowdin-SourceKey: msgstr\n"
 "Last-Translator: RuslanVovk <ruslan@crowdin.com>\n"
 "Language-Team: German\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: simple string sample
 msgid "Text for translation"
-msgstr ""
+msgstr "Sdfsdf"
 
 #: sample with translated string
 msgid "Text for translation"
-msgstr ""
+msgstr "Sdfsdf"
 
 #: long string without new line
 msgid "Very long string for translationeven longer string for translation."
@@ -32,7 +32,8 @@ msgstr ""
 #: long string with new line
 msgid "Very long string.\n"
 "Even longer string"
-msgstr ""
+msgstr "übersetzung-\n"
+"-translation_2"
 
 #: plurals
 #, string with plurals forms
