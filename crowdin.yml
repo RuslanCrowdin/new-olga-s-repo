@@ -1,4 +1,6 @@
-export_languages : 'de'
+export_languages : [
+"de"
+]
 
 files:
   - source: /*.*
