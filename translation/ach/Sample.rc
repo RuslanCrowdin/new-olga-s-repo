@@ -1,0 +1,36 @@
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+FILEFLAGS 0x9L
+#else
+FILEFLAGS 0x8L
+#endif
+FILEOS 0x40004L
+FILETYPE 0x2L
+FILESUBTYPE 0x0L
+BEGIN
+BLOCK "StringFileInfo"
+BEGIN
+BLOCK "040904b0"
+BEGIN
+VALUE "Comments", "crwdns103793:0crwdne103793:0"
+VALUE "CompanyName", "crwdns103795:0crwdne103795:0"
+VALUE "FileDescription", "crwdns103797:0crwdne103797:0"
+VALUE "FileVersion", "crwdns103799:0crwdne103799:0"
+VALUE "InternalName", "crwdns103801:0crwdne103801:0"
+VALUE "LegalCopyright", "crwdns103803:0crwdne103803:0"
+VALUE "LegalTrademarks", "crwdns103805:0crwdne103805:0"
+VALUE "OriginalFilename", "crwdns103807:0crwdne103807:0"
+VALUE "PrivateBuild", "crwdns103809:0crwdne103809:0"
+VALUE "ProductName", "crwdns103811:0crwdne103811:0"
+VALUE "ProductVersion", "crwdns103813:0crwdne103813:0"
+VALUE "SpecialBuild", "crwdns103815:0crwdne103815:0"
+END
+END
+BLOCK "VarFileInfo"
+BEGIN
+VALUE "Translation", 0x409, 1200
+END
+END
